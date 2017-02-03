@@ -1,1 +1,1 @@
-基于python的requests库从接口获取数据并对数据进行清洗、规范化
+﻿基于python的requests库从接口获取数据并对数据进行清洗、规范化，这是我做的项目中关于requests部分的部分代码
